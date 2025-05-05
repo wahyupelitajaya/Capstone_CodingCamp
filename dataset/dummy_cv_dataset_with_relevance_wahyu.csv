@@ -1,0 +1,201 @@
+﻿id;program_study;text;target_role;is_relevant
+1;Informatics;Experienced in cloud computing and DevOps practices.;Software Engineering;ya
+2;Finance;Skilled in risk management and compliance reporting.;Accounting;ya
+3;Management;Passionate about culinary arts and food service management.;Human Capital;tidak
+4;Informatics;Knowledge in machine learning and data visualization.;Software Engineering;ya
+5;Finance;Experienced in financial forecasting and cost analysis.;Accounting;ya
+6;Management;Skilled in conflict resolution and team leadership.;Human Capital;ya
+7;Informatics;Proficient in JavaScript, Node.js, and RESTful API development.;Software Engineering;ya
+8;Finance;Strong understanding of GAAP and IFRS accounting standards.;Accounting;ya
+9;Management;Background in event planning and coordination.;Human Capital;tidak
+10;Informatics;Experienced in mobile app development using Flutter.;Software Engineering;ya
+11;Finance;Skilled in payroll processing and employee benefits administration.;Accounting;ya
+12;Management;Skilled in talent development and succession planning.;Human Capital;ya
+13;Informatics;Knowledge in cybersecurity and network protocols.;Software Engineering;ya
+14;Finance;Experienced in corporate taxation and compliance.;Accounting;ya
+15;Management;Passionate about graphic design and branding strategies.;Human Capital;tidak
+16;Informatics;Proficient in C++ and embedded systems programming.;Software Engineering;ya
+17;Finance;Skilled in cash flow management and investment analysis.;Accounting;ya
+18;Management;Experienced in labor relations and employment law.;Human Capital;ya
+19;Informatics;Skilled in UI/UX design tools like Figma and Sketch.;Software Engineering;ya
+20;Finance;Background in audit procedures and internal controls.;Accounting;ya
+21;Management;Experience in retail operations and customer service leadership.;Human Capital;tidak
+22;Informatics;Experienced in blockchain technology and smart contracts.;Software Engineering;ya
+23;Finance;Strong in financial modeling and scenario analysis.;Accounting;ya
+24;Management;Skilled in organizational change management.;Human Capital;ya
+25;Informatics;Knowledge in natural language processing (NLP).;Software Engineering;ya
+26;Finance;Experienced in VAT and GST compliance.;Accounting;ya
+27;Management;Passionate about photography and visual storytelling.;Human Capital;tidak
+28;Informatics;Proficient in cloud platforms like AWS and Azure.;Software Engineering;ya
+29;Finance;Skilled in forensic accounting and fraud detection.;Accounting;ya
+30;Management;Experienced in performance coaching and feedback delivery.;Human Capital;ya
+31;Informatics;Experienced in game development with Unity.;Software Engineering;ya
+32;Finance;Background in international finance and currency exchange.;Accounting;ya
+33;Management;Interest in food service innovation and hospitality trends.;Human Capital;tidak
+34;Informatics;Knowledge in IoT and sensor networks.;Software Engineering;ya
+35;Finance;Skilled in credit control and accounts receivable management.;Accounting;ya
+36;Management;Skilled in workplace diversity and inclusion initiatives.;Human Capital;ya
+37;Informatics;Proficient in Docker and containerization technologies.;Software Engineering;ya
+38;Finance;Experienced in financial consolidation and reporting.;Accounting;ya
+39;Management;Passionate about music production and event management.;Human Capital;tidak
+40;Informatics;Experienced in AI-driven automation tools.;Software Engineering;ya
+41;Finance;Skilled in budget variance analysis and reporting.;Accounting;ya
+42;Management;Skilled in employee wellness programs and engagement strategies.;Human Capital;ya
+43;Informatics;Knowledge in quantum computing fundamentals.;Software Engineering;ya
+44;Finance;Background in non-profit accounting and fund management.;Accounting;ya
+45;Management;Experience in logistics and supply chain HR coordination.;Human Capital;tidak
+46;Informatics;Proficient in low-code platforms like Power Apps.;Software Engineering;ya
+47;Finance;Skilled in tax planning and optimization strategies.;Accounting;ya
+48;Management;Skilled in leadership training program design.;Human Capital;ya
+49;Informatics;Experienced in AR/VR application development.;Software Engineering;ya
+50;Finance;Experienced in ESG (Environmental, Social, Governance) reporting.;Accounting;ya
+51;Management;Passionate about travel and cultural exchange programs.;Human Capital;tidak
+52;Informatics;Knowledge in API design and microservices architecture.;Software Engineering;ya
+53;Finance;Skilled in merger and acquisition accounting.;Accounting;ya
+54;Management;Skilled in career counseling and professional development.;Human Capital;ya
+55;Informatics;Proficient in robotics and automation engineering.;Software Engineering;ya
+56;Finance;Background in banking operations and compliance.;Accounting;ya
+57;Management;Interest in fashion design and creative management.;Human Capital;tidak
+58;Informatics;Experienced in big data tools like Hadoop and Spark.;Software Engineering;ya
+59;Finance;Skilled in financial risk assessment and mitigation.;Accounting;ya
+60;Management;Skilled in cross-functional team collaboration.;Human Capital;ya
+61;Informatics;Knowledge in embedded systems and firmware development.;Software Engineering;ya
+62;Finance;Experienced in payroll tax reporting and compliance.;Accounting;ya
+63;Management;Passionate about sports coaching and youth development.;Human Capital;tidak
+64;Informatics;Proficient in serverless architecture and AWS Lambda.;Software Engineering;ya
+65;Finance;Skilled in financial statement analysis and interpretation.;Accounting;ya
+66;Management;Skilled in organizational culture development.;Human Capital;ya
+67;Informatics;Experienced in cybersecurity penetration testing.;Software Engineering;ya
+68;Finance;Background in insurance accounting and claims processing.;Accounting;ya
+69;Management;Interest in environmental sustainability and CSR programs.;Human Capital;tidak
+70;Informatics;Knowledge in computer vision and image processing.;Software Engineering;ya
+71;Finance;Skilled in debt restructuring and loan management.;Accounting;ya
+72;Management;Skilled in remote workforce management.;Human Capital;ya
+73;Informatics;Proficient in game scripting with C# and Lua.;Software Engineering;ya
+74;Finance;Experienced in financial audits and SOX compliance.;Accounting;ya
+75;Management;Passionate about writing and content strategy.;Human Capital;tidak
+76;Informatics;Experienced in full-stack development with Angular and Spring Boot.;Software Engineering;ya
+77;Finance;Skilled in capital budgeting and ROI analysis.;Accounting;ya
+78;Management;Skilled in employee retention strategies.;Human Capital;ya
+79;Informatics;Knowledge in distributed systems and Kubernetes.;Software Engineering;ya
+80;Finance;Background in forensic auditing and legal compliance.;Accounting;ya
+81;Management;Interest in social media marketing and digital branding.;Human Capital;tidak
+82;Informatics;Proficient in Rust and systems programming.;Software Engineering;ya
+83;Finance;Skilled in financial derivatives and hedging strategies.;Accounting;ya
+84;Management;Skilled in workplace safety and OSHA compliance.;Human Capital;ya
+85;Informatics;Experienced in 3D modeling and animation with Blender.;Software Engineering;ya
+86;Finance;Experienced in cryptocurrency accounting and blockchain compliance.;Accounting;ya
+87;Management;Passionate about public speaking and training delivery.;Human Capital;tidak
+88;Informatics;Knowledge in parallel computing and GPU programming.;Software Engineering;ya
+89;Finance;Skilled in financial planning for startups.;Accounting;ya
+90;Management;Skilled in HR analytics and data-driven decision-making.;Human Capital;ya
+91;Informatics;Proficient in web scraping and automation scripts.;Software Engineering;ya
+92;Finance;Background in nonprofit grant management and reporting.;Accounting;ya
+93;Management;Interest in travel logistics and event coordination.;Human Capital;tidak
+94;Informatics;Experienced in real-time systems and embedded programming.;Software Engineering;ya
+95;Finance;Skilled in customs duties and international trade compliance.;Accounting;ya
+96;Management;Skilled in conflict resolution and negotiation techniques.;Human Capital;ya
+97;Informatics;Knowledge in augmented reality (AR) development.;Software Engineering;ya
+98;Finance;Experienced in financial advisory for SMEs.;Accounting;ya
+99;Management;Passionate about fitness training and wellness programs.;Human Capital;tidak
+100;Informatics;Proficient in low-level programming and assembly languages.;Software Engineering;ya
+101;Informatics;Experienced in cloud architecture design using AWS and Azure.;Software Engineering;ya
+102;Finance;Certified in forensic accounting and fraud examination.;Accounting;ya
+103;Management;Passionate about culinary arts and international cuisine.;Human Capital;tidak
+104;Informatics;Proficient in TensorFlow and PyTorch for deep learning projects.;Software Engineering;ya
+105;Finance;Skilled in preparing GAAP-compliant financial statements.;Accounting;ya
+106;Management;Led talent acquisition strategies for multinational corporations.;Human Capital;ya
+107;Informatics;Knowledge in ethical hacking and network security protocols.;Software Engineering;ya
+108;Finance;Experienced in international tax compliance and transfer pricing.;Accounting;ya
+109;Management;Skilled in portrait photography and post-processing workflows.;Human Capital;tidak
+110;Informatics;Experienced in game development with Unreal Engine 5.;Software Engineering;ya
+111;Finance;Background in financial journalism and economic analysis.;Accounting;tidak
+112;Management;Developed leadership training programs for mid-level managers.;Human Capital;ya
+113;Informatics;Proficient in Rust and systems programming for high-performance applications.;Software Engineering;ya
+114;Finance;Skilled in mergers and acquisitions financial modeling.;Accounting;ya
+115;Management;Volunteer in environmental conservation projects.;Human Capital;tidak
+116;Informatics;Knowledge in quantum cryptography and post-quantum algorithms.;Software Engineering;ya
+117;Finance;Experienced in ESG (Environmental, Social, Governance) reporting frameworks.;Accounting;ya
+118;Management;Passionate about fitness training and wellness coaching.;Human Capital;tidak
+119;Informatics;Experienced in real-time data streaming with Apache Kafka.;Software Engineering;ya
+120;Finance;Skilled in forensic audit procedures and regulatory compliance.;Accounting;ya
+121;Management;Organized community outreach programs for social empowerment.;Human Capital;ya
+122;Informatics;Proficient in low-code automation tools like Microsoft Power Automate.;Software Engineering;ya
+123;Finance;Background in actuarial science and risk assessment models.;Accounting;ya
+124;Management;Experience in event planning for corporate conferences.;Human Capital;tidak
+125;Informatics;Knowledge in computer vision using OpenCV and CNNs.;Software Engineering;ya
+126;Finance;Skilled in budget forecasting for non-profit organizations.;Accounting;ya
+127;Management;Passionate about graphic design and visual communication.;Human Capital;tidak
+128;Informatics;Experienced in embedded systems for industrial IoT applications.;Software Engineering;ya
+129;Finance;Experienced in cryptocurrency transaction reporting and compliance.;Accounting;ya
+130;Management;Led employee mentorship programs to improve retention rates.;Human Capital;ya
+131;Informatics;Proficient in DevOps pipelines using Jenkins and GitLab CI/CD.;Software Engineering;ya
+132;Finance;Skilled in financial literacy education and community workshops.;Accounting;tidak
+133;Management;Skilled in conflict resolution for cross-cultural teams.;Human Capital;ya
+134;Informatics;Knowledge in AR/VR development with Unity and ARKit.;Software Engineering;ya
+135;Finance;Background in public finance and government accounting.;Accounting;ya
+136;Management;Passionate about travel blogging and cultural storytelling.;Human Capital;tidak
+137;Informatics;Experienced in microservices architecture with Spring Cloud.;Software Engineering;ya
+138;Finance;Skilled in financial reporting for multinational corporations.;Accounting;ya
+139;Management;Organized volunteer programs for disaster relief efforts.;Human Capital;ya
+140;Informatics;Proficient in blockchain-based identity management systems.;Software Engineering;ya
+141;Finance;Experienced in payroll compliance for remote global teams.;Accounting;ya
+142;Management;Skilled in public speaking and corporate training delivery.;Human Capital;ya
+143;Informatics;Knowledge in NLP for chatbot development with Rasa.;Software Engineering;ya
+144;Finance;Skilled in financial modeling for renewable energy projects.;Accounting;ya
+145;Management;Passionate about urban gardening and sustainability.;Human Capital;tidak
+146;Informatics;Experienced in real-time analytics with Apache Flink.;Software Engineering;ya
+147;Finance;Background in audit sampling techniques and statistical analysis.;Accounting;ya
+148;Management;Led team-building initiatives to enhance workplace collaboration.;Human Capital;ya
+149;Informatics;Proficient in serverless computing with Google Cloud Functions.;Software Engineering;ya
+150;Finance;Skilled in financial compliance for fintech startups.;Accounting;ya
+151;Management;Experience in organizing charity fundraising events.;Human Capital;tidak
+152;Informatics;Knowledge in GPU-accelerated computing with CUDA.;Software Engineering;ya
+153;Finance;Experienced in cost-volume-profit (CVP) analysis for decision-making.;Accounting;ya
+154;Management;Skilled in employee wellness program design and implementation.;Human Capital;ya
+155;Informatics;Experienced in game scripting with UnrealScript and Blueprints.;Software Engineering;ya
+156;Finance;Skilled in financial reporting for NGOs and non-profits.;Accounting;ya
+157;Management;Passionate about podcasting and digital content creation.;Human Capital;tidak
+158;Informatics;Proficient in API security with OAuth 2.0 and JWT.;Software Engineering;ya
+159;Finance;Background in customs duties and import-export taxation.;Accounting;ya
+160;Management;Led diversity and inclusion initiatives in corporate settings.;Human Capital;ya
+161;Informatics;Knowledge in edge computing and distributed systems.;Software Engineering;ya
+162;Finance;Skilled in financial planning for small businesses.;Accounting;ya
+163;Management;Experience in youth mentorship and career guidance.;Human Capital;tidak
+164;Informatics;Experienced in CI/CD pipelines for mobile app deployment.;Software Engineering;ya
+165;Finance;Experienced in forensic accounting for legal cases.;Accounting;ya
+166;Management;Skilled in performance appraisal systems and KPI design.;Human Capital;ya
+167;Informatics;Proficient in low-level embedded programming with C and Assembly.;Software Engineering;ya
+168;Finance;Skilled in financial statement analysis for investor relations.;Accounting;ya
+169;Management;Passionate about wildlife conservation and ecology.;Human Capital;tidak
+170;Informatics;Knowledge in quantum computing algorithms and Qiskit.;Software Engineering;ya
+171;Finance;Experienced in tax incentives for green energy projects.;Accounting;ya
+172;Management;Led cross-functional teams in product development projects.;Human Capital;ya
+173;Informatics;Experienced in big data analytics with Apache Spark.;Software Engineering;ya
+174;Finance;Skilled in financial risk assessment for banking institutions.;Accounting;ya
+175;Management;Skilled in organizational behavior and change management.;Human Capital;ya
+176;Informatics;Proficient in container orchestration with Kubernetes and Helm.;Software Engineering;ya
+177;Finance;Background in credit risk modeling and scoring.;Accounting;ya
+178;Management;Passionate about travel logistics and hospitality management.;Human Capital;tidak
+179;Informatics;Knowledge in robotics process automation (RPA) with UiPath.;Software Engineering;ya
+180;Finance;Experienced in financial compliance for healthcare institutions.;Accounting;ya
+181;Management;Organized team-building activities for remote employees.;Human Capital;ya
+182;Informatics;Experienced in full-stack development with React Native and Node.js.;Software Engineering;ya
+183;Finance;Skilled in financial literacy programs for underserved communities.;Accounting;tidak
+184;Management;Skilled in labor law compliance and employee rights advocacy.;Human Capital;ya
+185;Informatics;Proficient in machine learning model deployment with MLflow.;Software Engineering;ya
+186;Finance;Experienced in financial reporting for e-commerce businesses.;Accounting;ya
+187;Management;Passionate about creative writing and literary arts.;Human Capital;tidak
+188;Informatics;Knowledge in computer graphics and OpenGL programming.;Software Engineering;ya
+189;Finance;Skilled in financial planning for family-owned enterprises.;Accounting;ya
+190;Management;Led HR initiatives for employee engagement in Fortune 500 companies.;Human Capital;ya
+191;Informatics;Experienced in network protocol development with Wireshark.;Software Engineering;ya
+192;Finance;Background in financial derivatives trading and risk management.;Accounting;ya
+193;Management;Skilled in crisis management and business continuity planning.;Human Capital;ya
+194;Informatics;Proficient in real-time operating systems (RTOS) for embedded devices.;Software Engineering;ya
+195;Finance;Skilled in financial reporting for startups and scale-ups.;Accounting;ya
+196;Management;Passionate about digital marketing and SEO strategies.;Human Capital;tidak
+197;Informatics;Knowledge in distributed ledger technology (DLT) beyond blockchain.;Software Engineering;ya
+198;Finance;Experienced in financial compliance for pharmaceutical companies.;Accounting;ya
+199;Management;Skilled in onboarding new employees and orientation programs.;Human Capital;ya
+200;Informatics;Proficient in parallel computing with OpenMP and MPI.;Software Engineering;ya
